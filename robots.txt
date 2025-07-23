@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fauxflowerfarm.com/sitemap.xml
